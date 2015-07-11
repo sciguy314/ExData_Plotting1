@@ -3,7 +3,7 @@
 ##
 ##  This code constructs a set of plots of data taken from the "household_power_consumption" 
 ##  dataset available from UC Irvine Machine Learning Repository and puts the histogram into a 
-##  png file entitled "plot2.png"
+##  png file entitled "plot4.png"
 ##
 ##
 ##  Use the following assignment statement to specify a location for the dataset
